@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Etienne and welcome to my Porfolio </h1>
-<h3 align="center"> Passionate about Epidemiology, Data management, Biostatistics and Methodology  </h3>
+<h1 align="center">Hi 👋, I'm Colette and welcome to my Porfolio </h1>
+<h3 align="center"> Passionate about Finance and Comptability  </h3>
 
-- 🔭 I’m currently working on ** Clinical Research, Epidemiology & Biostatistics and Data management **
+- 🔭 I’m currently working on ** Finance and Comptability and SAP **
 
-- 🌱 I learned **" Epidemiology, Data management, Biostatistics  "**
+- 🌱 I learned **" Finance and Comptability   "**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **SAP**
 
 
 
