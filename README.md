@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=5000&&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+👋+Welcome+to+Marleine+PortfoliO)](https://git.io/typing-svg)
   
-🎓 Étudiante en Finance & Comptabilité  
-📍  Basée au Cameroun  
+🎓 Étudiante en Finance & Comptabilité    
 💼 Intéressée par : Comptabilité, Finance d’entreprise, Analyse financière, SAP FI/CO, Data pour la finance
 
 ---
