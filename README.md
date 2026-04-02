@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis  Mbeumeni  
 🎓 Étudiante en Finance & Comptabilité  
-📍 Basée en France  
+📍 Basée au Cameroun 
 💼 Intéressée par : Comptabilité, Finance d’entreprise, Analyse financière, SAP FI/CO, Data pour la finance
 
 ---
