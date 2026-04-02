@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, I'm Colette and welcome to my Porfolio </h1>
-<h3 align="center"> Passionate about Finance and Comptability  </h3>
-
-- 🔭 I’m currently working on ** Finance and Comptability and SAP **
-
-- 🌱 I learned **" Finance and Comptability   "**
-
-- 💬 Ask me about **SAP**
-
-
-# 👋 Bonjour, je suis Colette Mbeumeni  
+# 👋 Bonjour, je suis  Mbeumeni  
 🎓 Étudiante en Finance & Comptabilité  
 📍 Basée en France  
 💼 Intéressée par : Comptabilité, Finance d’entreprise, Analyse financière, SAP FI/CO, Data pour la finance
@@ -43,13 +33,6 @@
 - Premières analyses statistiques  
 
 ---
-
-
-
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
