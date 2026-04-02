@@ -8,6 +8,48 @@
 - 💬 Ask me about **SAP**
 
 
+# 👋 Bonjour, je suis Colette Mbeumeni  
+🎓 Étudiante en Finance & Comptabilité  
+📍 Basée en France  
+💼 Intéressée par : Comptabilité, Finance d’entreprise, Analyse financière, SAP FI/CO, Data pour la finance
+
+---
+
+## 📊 Compétences principales
+- **Comptabilité générale & analytique**
+- **Analyse financière**
+- **Contrôle de gestion**
+- **SAP FI/CO**
+- **Excel avancé (TCD, formules, automatisation)**
+- **R (statistiques de base)**
+
+---
+
+## 🧰 Outils & Technologies
+- **SAP FI/CO**
+- **Excel / Google Sheets**
+- **R**
+- **Git & GitHub**
+
+---
+
+## 📁 Projets
+### 🔹 Analyse financière d’entreprise  
+➡️ *À ajouter : un petit projet d’analyse financière (bilan, ratios, interprétation).*
+
+### 🔹 Statistiques de base en R  
+➡️ Projet déjà présent dans ton repo **Finance**   
+- Scripts R  
+- Premières analyses statistiques  
+
+---
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
