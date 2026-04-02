@@ -22,16 +22,8 @@
 - **Git & GitHub**
 
 ---
-
 ## 📁 Projets
 ### 🔹 Analyse financière d’entreprise  
-➡️ *À ajouter : un petit projet d’analyse financière (bilan, ratios, interprétation).*
-
-### 🔹 Statistiques de base en R  
-➡️ Projet déjà présent dans ton repo **Finance**   
-- Scripts R  
-- Premières analyses statistiques  
-
 ---
 
 <h3 align="left">Connect with me:</h3>
