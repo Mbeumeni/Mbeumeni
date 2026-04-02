@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+👋;Finance+%7C+Comptabilité+%7C+SAP+FI%2FCO;Always+learning+🚀)](https://git.io/typing-svg)
+
 # 👋 Bonjour, je suis Colette Mbeumeni  
 🎓 Étudiante en Finance & Comptabilité  
 📍 Basée en France  
