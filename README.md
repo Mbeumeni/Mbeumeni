@@ -1,9 +1,9 @@
-# 👋 Bonjour, je suis  Mbeumeni  
+# 👋 Bonjour, je suis Colette Mbeumeni  
 🎓 Étudiante en Finance & Comptabilité  
-📍 Basée au Cameroun 
+📍 Basée en France  
 💼 Intéressée par : Comptabilité, Finance d’entreprise, Analyse financière, SAP FI/CO, Data pour la finance
----
 
+---
 ## 📊 Compétences principales
 - **Comptabilité générale & analytique**
 - **Analyse financière**
@@ -13,12 +13,12 @@
 - **R (statistiques de base)**
 
 ---
-
 ## 🧰 Outils & Technologies
 - **SAP FI/CO**
 - **Excel / Google Sheets**
 - **R**
 - **Git & GitHub**
+
 ---
 
 <h3 align="left">Connect with me:</h3>
